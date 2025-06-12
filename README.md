@@ -24,7 +24,6 @@ This repository contains R code and documentation for performing differential ge
 4. *clusterProfiler*: For gene ontology enrichment analysis
 
 
-
 *Example Output:*
 
 The `Results` folder contains example output files, including:
@@ -32,5 +31,13 @@ The `Results` folder contains example output files, including:
 1. *Differentially expressed genes*: CSV file containing gene IDs, fold changes, and p-values
 2. *Heatmap*: PDF file containing a heatmap of differentially expressed genes
 3. *Volcano plot*: PDF file containing a volcano plot of differentially expressed genes
+
+
+Part 1: Gene Expression Analysis with Data Normalization in R: https://github.com/futureomics/Gene-Expression-Analysis-with-Data-Normalization-in-R_Part-1
+
+Part 2: Gene Expression Analysis Heatmap top 50 genes in R: https://github.com/futureomics/Gene-Expression-Analysis-Heatmap_top_50_genes-in-R_Part-2/tree/main 
+
+
+Follow like, share, and subscribe https://www.youtube.com/@Bioinformatics_Made_Easy
 
 
