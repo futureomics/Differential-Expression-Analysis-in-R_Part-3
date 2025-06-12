@@ -1,5 +1,5 @@
 
-*Differential Gene Expression Analysis using R*
+🧬*Differential Gene Expression Analysis using R*🧬
 
 This repository contains R code and documentation for performing differential gene expression analysis using RNA-seq data.
 
@@ -31,6 +31,12 @@ The `Results` folder contains example output files, including:
 1. *Differentially expressed genes*: CSV file containing gene IDs, fold changes, and p-values
 2. *Heatmap*: PDF file containing a heatmap of differentially expressed genes
 3. *Volcano plot*: PDF file containing a volcano plot of differentially expressed genes
+
+
+![volcano_with_labels_plot](https://github.com/user-attachments/assets/9077f4d3-9d80-45d4-8c5c-142d119397a0)
+
+
+![ma_plot](https://github.com/user-attachments/assets/d708fcc4-4fbc-409a-9f78-7683d1dbffe9)
 
 
 Part 1: Gene Expression Analysis with Data Normalization in R: https://github.com/futureomics/Gene-Expression-Analysis-with-Data-Normalization-in-R_Part-1
